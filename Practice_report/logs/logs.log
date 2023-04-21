@@ -1,0 +1,31 @@
+
+[INFO ] 2023-04-21 14:33:05.276 [main] step - launch the automation practice WebSite
+[INFO ] 2023-04-21 14:33:09.135 [main] step - Click the Radio Option-One
+[INFO ] 2023-04-21 14:33:09.181 [main] step - Click the Radio Option-Two
+[INFO ] 2023-04-21 14:33:09.250 [main] step - Click the Radio Option-Three
+[INFO ] 2023-04-21 14:33:09.441 [main] step - click the select country field
+[INFO ] 2023-04-21 14:33:09.586 [main] step - enter the country name
+[INFO ] 2023-04-21 14:33:09.661 [main] step - Select the option-one in DropDown field
+[INFO ] 2023-04-21 14:33:09.713 [main] step - Select the option-two in DropDown field
+[INFO ] 2023-04-21 14:33:09.769 [main] step - Select the option-three in DropDown field
+[INFO ] 2023-04-21 14:33:09.887 [main] step - Click the Check Box Option One
+[INFO ] 2023-04-21 14:33:09.950 [main] step - Click the Check Box Option Two
+[INFO ] 2023-04-21 14:33:10.013 [main] step - Click the Check Box Option Three
+[INFO ] 2023-04-21 14:33:10.190 [main] step - click on open window button
+[INFO ] 2023-04-21 14:33:10.238 [main] step - Successfully to switch to the New Window 
+[INFO ] 2023-04-21 14:33:10.248 [main] step - Successfully to switch to the Parent Window 
+[INFO ] 2023-04-21 14:33:10.496 [main] step - click on open tab button
+[INFO ] 2023-04-21 14:33:10.508 [main] step - Able to switch to tab
+[INFO ] 2023-04-21 14:33:10.538 [main] step - Close the New Tab and able to switch to parent tab
+[INFO ] 2023-04-21 14:33:11.047 [main] step - click the alert button
+[INFO ] 2023-04-21 14:33:11.057 [main] step - Able to Switch alert and click on Popup alert
+[INFO ] 2023-04-21 14:33:13.294 [main] step - click on confirm button
+[INFO ] 2023-04-21 14:33:13.356 [main] step - click on cancel Alert button
+[INFO ] 2023-04-21 14:33:13.357 [main] step - I Scroll Down the Page
+[INFO ] 2023-04-21 14:33:13.542 [main] step - Get Details for who are Studied Selenium course Details
+[INFO ] 2023-04-21 14:33:13.720 [main] step - Get Chennai city name selection data
+[INFO ] 2023-04-21 14:33:13.899 [main] step - Click on Hide Button
+[INFO ] 2023-04-21 14:33:13.980 [main] step - Click on Show Button
+[INFO ] 2023-04-21 14:33:16.063 [main] step - Click on mouse hover Button
+[INFO ] 2023-04-21 14:33:17.021 [main] step - Click on reload Button
+[INFO ] 2023-04-21 14:33:20.239 [main] step - switch to iframe and click the home button
